@@ -10935,6 +10935,7 @@ main .main1 .p-text1 {
 
 main .main1 ul {
   list-style: none;
+  padding-left: 0px;
 }
 
 main .main1 ul li {
