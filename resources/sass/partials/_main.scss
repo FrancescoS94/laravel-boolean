@@ -1,0 +1,36 @@
+main {
+    .main1 {
+        padding: 80px 0px;
+        h1 {
+            color: #0cd977;
+            font-size: 50px;
+            font-weight: 700;
+            padding-top: 50px;
+            margin-bottom: 80px;
+        }
+        .p-text1 {
+            color: #001632;
+            font-size: 25px;
+            font-weight: 700;
+        }
+        ul {
+            list-style: none;
+            li {
+                font-size: 18px;
+                padding-top: 10px;
+                img {
+                    margin-right: 10px;
+                }
+            }
+        }
+    }
+    .btn-1 {
+        border: 2px solid;
+        padding: 10px 20px;
+        margin-top: 50px;
+    }
+    .card-group {
+        height: 100px;
+        width: 500px;
+    }
+}

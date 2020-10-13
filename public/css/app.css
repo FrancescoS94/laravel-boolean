@@ -10899,9 +10899,61 @@ a.text-dark:focus {
   }
 }
 
-.card-img-top,
-.card-group {
-  height: 300px;
-  width: 300px;
+header nav img {
+  height: 32px;
+}
+
+header nav ul li:hover {
+  text-decoration: underline;
+}
+
+header nav ul li a {
+  color: black;
+}
+
+header nav ul li a:hover {
+  color: black;
+}
+
+main .main1 {
+  padding: 80px 0px;
+}
+
+main .main1 h1 {
+  color: #0cd977;
+  font-size: 50px;
+  font-weight: 700;
+  padding-top: 50px;
+  margin-bottom: 80px;
+}
+
+main .main1 .p-text1 {
+  color: #001632;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+main .main1 ul {
+  list-style: none;
+}
+
+main .main1 ul li {
+  font-size: 18px;
+  padding-top: 10px;
+}
+
+main .main1 ul li img {
+  margin-right: 10px;
+}
+
+main .btn-1 {
+  border: 2px solid;
+  padding: 10px 20px;
+  margin-top: 50px;
+}
+
+main .card-group {
+  height: 100px;
+  width: 500px;
 }
 

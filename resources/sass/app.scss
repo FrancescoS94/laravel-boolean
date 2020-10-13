@@ -1,6 +1,6 @@
 @import "~bootstrap/scss/bootstrap";
-
-.card-img-top, .card-group {
-    height: 300px;
-    width: 300px;
-}
+@import "partials/_variables.scss";
+@import "partials/_mixins.scss";
+@import "partials/_common.scss";
+@import "partials/_header.scss";
+@import "partials/_main.scss";
