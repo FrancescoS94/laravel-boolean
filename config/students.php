@@ -13,7 +13,7 @@ $data = [
     ],
     [
         'img' => 'https://www.boolean.careers/images/people/antidormi.png',
-        'nome' => 'Nicholas Antidormi ',
+        'nome' => 'Nicholas Antidormi',
         'anni' => 20,
         'genere' => 'm',
         'slug' => 'nico',

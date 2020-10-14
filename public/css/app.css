@@ -10953,8 +10953,13 @@ main .btn-1 {
   margin-top: 50px;
 }
 
-main .card-group {
+main .c-group {
   height: 100px;
-  width: 500px;
+  width: 100%;
+}
+
+main .c-show {
+  height: 200px;
+  width: 400px;
 }
 
